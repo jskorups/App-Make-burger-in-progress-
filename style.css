@@ -1,0 +1,42 @@
+
+.dzambo{
+    height: 300px;
+    background: url("img/wall.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    color: #ffffff!important;
+}
+.col-md-12 {
+
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+.radio{
+    margin: 0 auto!important;
+}
+
+input{
+    margin: 0 auto !important;
+}
+li>a{
+    color: #000000!important;
+    border: 1px solid #000000;
+
+}
+a:focus{
+    background-color: #000000!important;
+    color: #ffffff!important;
+}
+
+a:visited{
+    background-color: grey!important;
+
+
+
+}
+a:hover{
+    background-color: #000000!important;
+    color: #ffffff!important;
+
+}
